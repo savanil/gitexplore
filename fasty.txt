@@ -3,3 +3,6 @@ I am new login page
 I am using first design
 
 Added logout function
+
+Added login function through x method
+
